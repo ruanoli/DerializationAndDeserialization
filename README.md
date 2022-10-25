@@ -6,5 +6,5 @@
 
 - Deserialização
     
-    O processo de deserialização faz exatamente o contrário da serialização. Através de um determinado dado, transformamos ele em um objeto.
+    O processo de deserialização faz exatamente o contrário da serialização. Através de um determinado metadado, transformamos ele em um objeto.
     
